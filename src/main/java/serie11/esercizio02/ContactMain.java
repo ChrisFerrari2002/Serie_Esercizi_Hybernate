@@ -11,7 +11,7 @@ create table contacts (
  */
 public class ContactMain {
     static void insertContact(String nome, String cognome, long num_tel, long num_cell, String email){
-
+        System.out.println();
     }
     static void printContacts(){
 
